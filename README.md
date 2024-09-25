@@ -20,6 +20,7 @@ The Goal of this project is how we send message ISO20022 XML Format via TCP usin
 - Open Apache JMeter 5.5
 - Download Jar File From : https://github.com/DianPermana/Design-and-Implementation-of-Fixed-Length-ISO20022-Messages-over-TCP/blob/main/java-sampler-rsa-encryption-1.1-ISO-20022.jar
 - store .Jar File to "...\apache-jmeter-5.5\apache-jmeter-5.5\lib\ext\java-sampler-rsa-encryption-1.1-ISO-20022.jar"
+- Config : XML Format Message Request, Correlation Pattern, etc
 - Run test Script
 
 # Evidence Video
